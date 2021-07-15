@@ -1,5 +1,5 @@
 rm(list = ls())
-setwd("~/Desktop/NYU Academic/Statistics & Econometrics 1/Project/Data")
+setwd("FILEPATH")
 getwd()
 library(tidyverse)
 library(dplyr)
